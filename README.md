@@ -1,6 +1,8 @@
 # MotionSecuritySystem
 A computer vision-based security system that generates dynamic passwords using real-time fish movement tracking.
 
+![System Output](Output.png)
+
 ## Overview
 
 The system captures live video from a camera, detects the fish using OpenCV image processing techniques, extracts its coordinates, and generates a dynamic password based on its position.
